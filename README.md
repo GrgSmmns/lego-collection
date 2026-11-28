@@ -1,23 +1,14 @@
-# My LEGO Collection Dashboard
+# My LEGO Collection Dashboard v2.1
 
-Version 2.0
-Published November 27, 2026
+GitHub Pages dashboard for an owned LEGO collection, retired wishlist, Coming Soon releases, and sets being sought.
 
-## Collection
-- 40 owned physical sets
-- 24 built sets
-- 16 not built sets
-- 35,099 owned pieces
+## Sections
+- All Owned
+- Built
+- Not Built
+- Retired Wishlist
+- Coming Soon
+- Looking For
 
-## Features
-- Search
-- Category filtering
-- Retail pricing
-- Price source links
-- Random avatar rotation
-- New LEGO Sets button
-- Rebrickable Collection button
-- Mobile-friendly UI
-
-Rebrickable Profile:
-https://rebrickable.com/users/MrGas/lego/
+## Release
+Published November 27, 2026.
